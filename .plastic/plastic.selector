@@ -1,0 +1,4 @@
+repository "For The Human@vianlys@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
